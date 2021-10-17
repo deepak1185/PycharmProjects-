@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6d1599b-5e0f-42c3-9102-9e7fe53b54ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vJ5RQfSlG956GJjMgf6CoVSpmh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.scratch_5">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day-18-turtle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day-18-turtle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day-18-turtle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scratch_5" />
+        <item itemvalue="Python.scratch_4" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6d1599b-5e0f-42c3-9102-9e7fe53b54ae" name="Default Changelist" comment="" />
+      <created>1626267342286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626267342286</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2375" y="120" width="1000" height="846" key="#Notifications" timestamp="1626268110249">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2375" y="120" width="1000" height="846" key="#Notifications/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1626268110249" />
+    <state x="1187" y="255" width="524" height="601" key="FileChooserDialogImpl" timestamp="1629617486972">
+      <screen x="63" y="28" width="1857" height="1014" />
+    </state>
+    <state x="1187" y="255" width="524" height="601" key="FileChooserDialogImpl/63.28.1857.1014@63.28.1857.1014" timestamp="1629617486972" />
+    <state width="868" height="337" key="GridCell.Tab.0.bottom" timestamp="1629678346703">
+      <screen x="63" y="28" width="3777" height="1014" />
+    </state>
+    <state width="1888" height="277" key="GridCell.Tab.0.bottom/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1629428918885" />
+    <state width="1825" height="277" key="GridCell.Tab.0.bottom/63.28.1857.1014/1920.0.1920.1080@63.28.1857.1014" timestamp="1629295777605" />
+    <state width="880" height="403" key="GridCell.Tab.0.bottom/63.28.1857.1014@63.28.1857.1014" timestamp="1629617756361" />
+    <state width="868" height="337" key="GridCell.Tab.0.bottom/63.28.3777.1014@63.28.3777.1014" timestamp="1629678346703" />
+    <state width="868" height="337" key="GridCell.Tab.0.center" timestamp="1629678346703">
+      <screen x="63" y="28" width="3777" height="1014" />
+    </state>
+    <state width="1888" height="277" key="GridCell.Tab.0.center/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1629428918885" />
+    <state width="1825" height="277" key="GridCell.Tab.0.center/63.28.1857.1014/1920.0.1920.1080@63.28.1857.1014" timestamp="1629295777605" />
+    <state width="880" height="403" key="GridCell.Tab.0.center/63.28.1857.1014@63.28.1857.1014" timestamp="1629617756360" />
+    <state width="868" height="337" key="GridCell.Tab.0.center/63.28.3777.1014@63.28.3777.1014" timestamp="1629678346703" />
+    <state width="868" height="337" key="GridCell.Tab.0.left" timestamp="1629678346702">
+      <screen x="63" y="28" width="3777" height="1014" />
+    </state>
+    <state width="1888" height="277" key="GridCell.Tab.0.left/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1629428918885" />
+    <state width="1825" height="277" key="GridCell.Tab.0.left/63.28.1857.1014/1920.0.1920.1080@63.28.1857.1014" timestamp="1629295777605" />
+    <state width="880" height="403" key="GridCell.Tab.0.left/63.28.1857.1014@63.28.1857.1014" timestamp="1629617756360" />
+    <state width="868" height="337" key="GridCell.Tab.0.left/63.28.3777.1014@63.28.3777.1014" timestamp="1629678346702" />
+    <state width="868" height="337" key="GridCell.Tab.0.right" timestamp="1629678346703">
+      <screen x="63" y="28" width="3777" height="1014" />
+    </state>
+    <state width="1888" height="277" key="GridCell.Tab.0.right/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1629428918885" />
+    <state width="1825" height="277" key="GridCell.Tab.0.right/63.28.1857.1014/1920.0.1920.1080@63.28.1857.1014" timestamp="1629295777605" />
+    <state width="880" height="403" key="GridCell.Tab.0.right/63.28.1857.1014@63.28.1857.1014" timestamp="1629617756361" />
+    <state width="868" height="337" key="GridCell.Tab.0.right/63.28.3777.1014@63.28.3777.1014" timestamp="1629678346703" />
+    <state x="2275" y="87" width="1209" height="912" key="SettingsEditor" timestamp="1629208028020">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2275" y="87" width="1209" height="912" key="SettingsEditor/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1629208028020" />
+    <state x="574" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1629703758579">
+      <screen x="63" y="28" width="1857" height="1014" />
+    </state>
+    <state x="2448" y="329" key="com.intellij.ide.util.TipDialog/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1629246022285" />
+    <state x="574" y="337" key="com.intellij.ide.util.TipDialog/63.28.1857.1014@63.28.1857.1014" timestamp="1629703758579" />
+    <state x="2459" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1629246315196">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2459" y="45" width="840" height="1034" key="search.everywhere.popup/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1629246315196" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

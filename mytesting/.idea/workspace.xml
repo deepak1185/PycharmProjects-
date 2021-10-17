@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="898993e2-44ea-482b-b2d0-0966addd96d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X0aLnJhQrPfdn1rkFGdZHG4jFb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="yaml&#10;IgnoreLang&#10;HgIgnore" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ansible" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/ansible" />
+      <recent name="$USER_HOME$/Downloads" />
+      <recent name="$USER_HOME$/Desktop/My_Roles/roles/Prov_Check/tasks" />
+      <recent name="$USER_HOME$/Desktop/Sunrise_JTB/Common Infra Event Check" />
+      <recent name="$USER_HOME$/Desktop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.coffee">
+    <configuration name="coffee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mytesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/ansible" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/ansible/coffee.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="password_gen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mytesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/ansible" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/ansible/password_gen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="password_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mytesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/ansible" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/ansible/password_generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mytesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/ansible" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/ansible/t.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web_scraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mytesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/ansible" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/ansible/web_scraper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.coffee" />
+        <item itemvalue="Python.web_scraper" />
+        <item itemvalue="Python.t" />
+        <item itemvalue="Python.password_gen" />
+        <item itemvalue="Python.password_generator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="898993e2-44ea-482b-b2d0-0966addd96d5" name="Default Changelist" comment="" />
+      <created>1589771225250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589771225250</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2674" y="168" width="800" height="684" key="#Inspections" timestamp="1616050585430">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2674" y="168" width="800" height="684" key="#Inspections/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1616050585430" />
+    <state x="2756" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615772430769">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2756" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615772430769" />
+    <state x="2957" y="310" width="665" height="401" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616050243457">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2957" y="310" width="665" height="401" key="#com.intellij.fileTypes.FileTypeChooser/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1616050243457" />
+    <state x="957" y="104" width="660" height="773" key="FileChooserDialogImpl" timestamp="1619067526123">
+      <screen x="63" y="28" width="1857" height="1014" />
+    </state>
+    <state x="2897" y="98" width="635" height="807" key="FileChooserDialogImpl/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1617613686802" />
+    <state x="957" y="104" width="660" height="773" key="FileChooserDialogImpl/63.28.1857.1014/1920.0.1920.1080@63.28.1857.1014" timestamp="1619067526123" />
+    <state width="979" height="247" key="GridCell.Tab.0.bottom" timestamp="1624856738186">
+      <screen x="63" y="28" width="1857" height="1014" />
+    </state>
+    <state width="1010" height="353" key="GridCell.Tab.0.bottom/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624253001597" />
+    <state width="979" height="247" key="GridCell.Tab.0.bottom/63.28.1857.1014/1920.0.1920.1080@63.28.1857.1014" timestamp="1624856738186" />
+    <state width="979" height="247" key="GridCell.Tab.0.center" timestamp="1624856738183">
+      <screen x="63" y="28" width="1857" height="1014" />
+    </state>
+    <state width="1010" height="353" key="GridCell.Tab.0.center/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624253001597" />
+    <state width="979" height="247" key="GridCell.Tab.0.center/63.28.1857.1014/1920.0.1920.1080@63.28.1857.1014" timestamp="1624856738183" />
+    <state width="979" height="247" key="GridCell.Tab.0.left" timestamp="1624856738179">
+      <screen x="63" y="28" width="1857" height="1014" />
+    </state>
+    <state width="1010" height="353" key="GridCell.Tab.0.left/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624253001596" />
+    <state width="979" height="247" key="GridCell.Tab.0.left/63.28.1857.1014/1920.0.1920.1080@63.28.1857.1014" timestamp="1624856738179" />
+    <state width="979" height="247" key="GridCell.Tab.0.right" timestamp="1624856738185">
+      <screen x="63" y="28" width="1857" height="1014" />
+    </state>
+    <state width="1010" height="353" key="GridCell.Tab.0.right/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624253001597" />
+    <state width="979" height="247" key="GridCell.Tab.0.right/63.28.1857.1014/1920.0.1920.1080@63.28.1857.1014" timestamp="1624856738185" />
+    <state width="1010" height="353" key="GridCell.Tab.1.bottom" timestamp="1624253001597">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1010" height="353" key="GridCell.Tab.1.bottom/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624253001597" />
+    <state width="1010" height="353" key="GridCell.Tab.1.center" timestamp="1624253001597">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1010" height="353" key="GridCell.Tab.1.center/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624253001597" />
+    <state width="1010" height="353" key="GridCell.Tab.1.left" timestamp="1624253001597">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1010" height="353" key="GridCell.Tab.1.left/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624253001597" />
+    <state width="1010" height="353" key="GridCell.Tab.1.right" timestamp="1624253001597">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1010" height="353" key="GridCell.Tab.1.right/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624253001597" />
+    <state x="913" y="170" width="1007" height="737" key="SettingsEditor" timestamp="1624605833094">
+      <screen x="63" y="28" width="1857" height="1014" />
+    </state>
+    <state x="913" y="170" width="1007" height="737" key="SettingsEditor/63.28.1857.1014/1920.0.1920.1080@63.28.1857.1014" timestamp="1624605833094" />
+    <state x="3039" y="270" width="540" height="524" key="StructurePopup" timestamp="1624253048747">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3039" y="270" width="540" height="524" key="StructurePopup/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624253048747" />
+    <state x="2300" y="99" width="1396" height="911" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1624252910155">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2300" y="99" width="1396" height="911" key="com.intellij.history.integration.ui.views.FileHistoryDialog/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624252910155" />
+    <state x="2634" y="149" width="805" height="637" key="com.intellij.ide.util.TipDialog" timestamp="1623640000945">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2634" y="149" width="805" height="637" key="com.intellij.ide.util.TipDialog/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1623640000945" />
+    <state x="754" y="168" key="com.intellij.ide.util.TipDialog/63.28.1857.1014/1920.0.1920.1080@63.28.1857.1014" timestamp="1619066692337" />
+    <state x="754" y="168" key="com.intellij.ide.util.TipDialog/63.28.1857.1014@63.28.1857.1014" timestamp="1623108432648" />
+    <state x="2083" y="251" width="1322" height="637" key="search.everywhere.popup" timestamp="1623123826120">
+      <screen x="63" y="28" width="3777" height="1014" />
+    </state>
+    <state x="2947" y="237" width="672" height="678" key="search.everywhere.popup/63.28.1857.1014/1920.0.1920.1080@1920.0.1920.1080" timestamp="1622338947206" />
+    <state x="2083" y="251" width="1322" height="637" key="search.everywhere.popup/63.28.3777.1014@63.28.3777.1014" timestamp="1623123826120" />
+  </component>
+</project>
